@@ -1,8 +1,8 @@
-# Reto 1 Javascript
+# Reto 2 Javascript
 
 # Problema
 
-La función hello() del componente : hello-word.js no esta retornando el valor correcto.
+La siguiente función obtNumber() permite extraer el número mayor de un arreglo pero presenta un error en su lógica
 
 Corregir para que la prueba ejecute satisfactoriamente.
 
